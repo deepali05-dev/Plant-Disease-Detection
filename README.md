@@ -41,3 +41,20 @@ PlantVillage Dataset (38 classes)
 - Model: CNN
 - Validation Accuracy: ~95%
 - Number of Classes: 38
+
+## 📸 Project Screenshots
+
+### CNN Model
+![CNN Model](screenshots/cnn_architecture1.png)
+
+### Training Accuracy
+![Training Accuracy](screenshots/cnn_architecture2.png)
+
+### Training Loss
+![Training Loss](screenshots/cnn_architecture3.png)
+
+### Prediction Result
+![Prediction Result](screenshots/cnn_architecture4.png)
+
+### Model Summary
+![Model Summary](screenshots/cnn_architecture5.png)
